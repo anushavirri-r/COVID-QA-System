@@ -17,14 +17,15 @@ A **Multilingual Question Answering (QA) System** for COVID-19 using **BM25, Den
 
 ---
 
-## 📂 Project Structure  
-COVID-QA-System/ │── data/ # Stores BM25 Index & Context Embeddings │ ├── COVID-QA.json # COVID QA dataset │ ├── bm25_index.json # Preprocessed BM25 index │ ├── context_embeddings.json # Saved embeddings for semantic retrieval │ │── context_preparation.py # Loads dataset, processes context, stores embeddings │── query_processing.py # Preprocesses queries & retrieves context using NLP │── answer_extraction.py # Extracts answer from retrieved context │── requirements.txt # List of dependencies │── README.md # Project documentation
-
----
-
 ## 📦 Installation  
 
 ### 🔹 Step 1: Clone the Repository  
 ```bash
 git clone https://github.com/anushavirri-r/COVID-QA-System.git
 cd COVID-QA-System
+
+
+### 🔹 Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt
+
