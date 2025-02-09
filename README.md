@@ -23,9 +23,9 @@ A **Multilingual Question Answering (QA) System** for COVID-19 using **BM25, Den
 ```bash
 git clone https://github.com/anushavirri-r/COVID-QA-System.git
 cd COVID-QA-System
-
-
+```
 ### 🔹 Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
