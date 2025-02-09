@@ -1,0 +1,11 @@
+torch
+transformers
+sentence-transformers
+spacy
+nltk
+langdetect
+deep-translator
+numpy
+scipy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.1/en_core_web_sm-3.6.1.tar.gz
+pandas
