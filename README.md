@@ -32,11 +32,11 @@ pip install -r requirements.txt
 ---
 
 ## 🛠️ Technologies Used  
-- **NLP & Transformers:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [spaCy](https://spacy.io/), [nltk](https://www.nltk.org/)  
-- **Retrieval Models:** [BM25](https://en.wikipedia.org/wiki/Okapi_BM25), [Sentence Transformers (MiniLM)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)  
-- **Machine Learning Frameworks:** [PyTorch](https://pytorch.org/), [Transformers](https://huggingface.co/docs/transformers/index)  
-- **Translation:** [Google Translate API](https://cloud.google.com/translate)  
-- **Data Storage:** JSON
+🔹 **NLP & Transformers:** [Hugging Face Transformers](https://huggingface.co/docs/transformers/index), [spaCy](https://spacy.io/), [nltk](https://www.nltk.org/)  
+🔹 **Retrieval Models:** [BM25](https://en.wikipedia.org/wiki/Okapi_BM25), [Sentence Transformers (MiniLM)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)  
+🔹 **Machine Learning Frameworks:** [PyTorch](https://pytorch.org/), [Transformers](https://huggingface.co/docs/transformers/index)  
+🔹 **Translation:** [Google Translate API](https://cloud.google.com/translate)  
+🔹 **Data Storage:** JSON
 
 ---
 
