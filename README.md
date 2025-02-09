@@ -39,3 +39,8 @@ pip install -r requirements.txt
 - **Data Storage:** JSON
 
 ---
+
+## 💡 Future Improvements  
+- 🔹 Support more datasets beyond COVID-QA  
+- 🔹 Improve answer ranking using Re-rankers  
+- 🔹 Deploy as a REST API using FastAPI  
